@@ -1,0 +1,22 @@
+### Place configuration data for your pack here.
+---
+hostname: 'foo.xyz.com'
+subscribe:
+  - "topic/tp/sub/evt/open/fmt/json"
+tenant_id: "tenibm"
+## Optional Parameters
+# client_id: "a:tenibm:foo"
+# port: 1833
+# username: "ham"
+# password: "eggs"
+# ssl: true
+# ssl_cacert: "/dmp/lo/ccrt"
+# ssl_cert: "/tot/wap/sl.crt"
+# ssl_key: "qwdsrrr3eere68r4f"
+
+## Parameters for data clean action
+# data_file_path: "/dmp/in/datafin2clean.csv"
+# json_schema_path: "/dmp/in/jsnfile/insch.json"
+
+## Parameters for bulk publish action with csv file
+# csvFilePath: "/dmp/in/sv/csv4publish.csv"
