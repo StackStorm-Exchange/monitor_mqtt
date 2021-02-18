@@ -21,7 +21,7 @@ IBM Watson IOT Service and Stackstorm, and Python3.7 up and running.
 
     
     # clone monitor_mqtt code from github repo
-    git clone --branch st2 https://github.com/StackStorm-Exchange/stackstorm-monitor_mqtt.git
+    git clone https://github.com/StackStorm-Exchange/stackstorm-monitor_mqtt.git
   
 
 ### One can Install from Exchange by pack name
